@@ -1,0 +1,14 @@
+E:\training\Furniture\Backend\FurnitureManagement\FurnitureManagement.Domain\bin\Debug\net8.0\FurnitureManagement.Domain.deps.json
+E:\training\Furniture\Backend\FurnitureManagement\FurnitureManagement.Domain\bin\Debug\net8.0\FurnitureManagement.Domain.runtimeconfig.json
+E:\training\Furniture\Backend\FurnitureManagement\FurnitureManagement.Domain\bin\Debug\net8.0\FurnitureManagement.Domain.dll
+E:\training\Furniture\Backend\FurnitureManagement\FurnitureManagement.Domain\bin\Debug\net8.0\FurnitureManagement.Domain.pdb
+E:\training\Furniture\Backend\FurnitureManagement\FurnitureManagement.Domain\obj\Debug\net8.0\FurnitureManagement.Domain.csproj.AssemblyReference.cache
+E:\training\Furniture\Backend\FurnitureManagement\FurnitureManagement.Domain\obj\Debug\net8.0\FurnitureManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\training\Furniture\Backend\FurnitureManagement\FurnitureManagement.Domain\obj\Debug\net8.0\FurnitureManagement.Domain.AssemblyInfoInputs.cache
+E:\training\Furniture\Backend\FurnitureManagement\FurnitureManagement.Domain\obj\Debug\net8.0\FurnitureManagement.Domain.AssemblyInfo.cs
+E:\training\Furniture\Backend\FurnitureManagement\FurnitureManagement.Domain\obj\Debug\net8.0\FurnitureManagement.Domain.csproj.CoreCompileInputs.cache
+E:\training\Furniture\Backend\FurnitureManagement\FurnitureManagement.Domain\obj\Debug\net8.0\FurnitureManagement.Domain.dll
+E:\training\Furniture\Backend\FurnitureManagement\FurnitureManagement.Domain\obj\Debug\net8.0\refint\FurnitureManagement.Domain.dll
+E:\training\Furniture\Backend\FurnitureManagement\FurnitureManagement.Domain\obj\Debug\net8.0\FurnitureManagement.Domain.pdb
+E:\training\Furniture\Backend\FurnitureManagement\FurnitureManagement.Domain\obj\Debug\net8.0\FurnitureManagement.Domain.genruntimeconfig.cache
+E:\training\Furniture\Backend\FurnitureManagement\FurnitureManagement.Domain\obj\Debug\net8.0\ref\FurnitureManagement.Domain.dll

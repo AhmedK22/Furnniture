@@ -1,0 +1,15 @@
+E:\training\Furniture\Backend\FurnitureManagement\FurnitureManagement.Application\bin\Debug\net8.0\FurnitureManagement.Application.deps.json
+E:\training\Furniture\Backend\FurnitureManagement\FurnitureManagement.Application\bin\Debug\net8.0\FurnitureManagement.Application.dll
+E:\training\Furniture\Backend\FurnitureManagement\FurnitureManagement.Application\bin\Debug\net8.0\FurnitureManagement.Application.pdb
+E:\training\Furniture\Backend\FurnitureManagement\FurnitureManagement.Application\obj\Debug\net8.0\FurnitureManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\training\Furniture\Backend\FurnitureManagement\FurnitureManagement.Application\obj\Debug\net8.0\FurnitureManagement.Application.AssemblyInfoInputs.cache
+E:\training\Furniture\Backend\FurnitureManagement\FurnitureManagement.Application\obj\Debug\net8.0\FurnitureManagement.Application.AssemblyInfo.cs
+E:\training\Furniture\Backend\FurnitureManagement\FurnitureManagement.Application\obj\Debug\net8.0\FurnitureManagement.Application.csproj.CoreCompileInputs.cache
+E:\training\Furniture\Backend\FurnitureManagement\FurnitureManagement.Application\obj\Debug\net8.0\FurnitureManagement.Application.dll
+E:\training\Furniture\Backend\FurnitureManagement\FurnitureManagement.Application\obj\Debug\net8.0\refint\FurnitureManagement.Application.dll
+E:\training\Furniture\Backend\FurnitureManagement\FurnitureManagement.Application\obj\Debug\net8.0\FurnitureManagement.Application.pdb
+E:\training\Furniture\Backend\FurnitureManagement\FurnitureManagement.Application\obj\Debug\net8.0\ref\FurnitureManagement.Application.dll
+E:\training\Furniture\Backend\FurnitureManagement\FurnitureManagement.Application\bin\Debug\net8.0\FurnitureManagement.Domain.dll
+E:\training\Furniture\Backend\FurnitureManagement\FurnitureManagement.Application\bin\Debug\net8.0\FurnitureManagement.Domain.pdb
+E:\training\Furniture\Backend\FurnitureManagement\FurnitureManagement.Application\obj\Debug\net8.0\FurnitureManagement.Application.csproj.AssemblyReference.cache
+E:\training\Furniture\Backend\FurnitureManagement\FurnitureManagement.Application\obj\Debug\net8.0\FurnitureManagement.Application.csproj.CopyComplete
